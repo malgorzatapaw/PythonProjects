@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1290834f-2cd0-4974-ab99-6116da4f999f" name="Changes" comment="This is new project">
-      <change beforePath="$PROJECT_DIR$/RestaurantCalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantCalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.RestaurantCalc">
+  <component name="RunManager" selected="Python.Calculator">
     <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,8 +125,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RestaurantCalc" />
         <item itemvalue="Python.Calculator" />
+        <item itemvalue="Python.RestaurantCalc" />
         <item itemvalue="Python.RestaurantCalculator" />
       </list>
     </recent_temporary>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653931183082</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="This is new project">
+      <created>1653934828289</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934828289</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
